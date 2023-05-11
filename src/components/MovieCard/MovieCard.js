@@ -1,5 +1,10 @@
-import React from "react";
 
-export default function MovieCard() {
-  return <div>MovieCard</div>;
+import React from 'react'
+
+ const MovieCard = () => {
+  return (
+    <div>MovieCard</div>
+  )
 }
+
+export default MovieCard;
